@@ -1,0 +1,26 @@
+# Python Virtual Environments
+venv/
+.venv/
+
+# Python Bytecode
+__pycache__/
+*.pyc
+
+# Database Files
+*.db
+conversation_history.db
+last_processed_id.txt
+last_processed_timestamp.txt
+
+# IDE and OS Files
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Other Unwanted Files
+
